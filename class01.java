@@ -38,7 +38,7 @@ public void show()
    System.out.println("area="+3.14*radius*radius);
 }
 }
-public class clsss01
+public class class01
 {
 public static void main(String args[])
 {
